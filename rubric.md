@@ -1,4 +1,4 @@
-# Colleges and Athletes
+# Colleges & Athletes
 
 ## Passing requires all values
 
